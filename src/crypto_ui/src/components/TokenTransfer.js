@@ -31,30 +31,33 @@ function TokenTransfer({ walletAddress, provider }) {
 
   return (
     <div className="token-transfer-container">
-      <Paper elevation={1} className="paper">
-        <Typography variant="h6" gutterBottom>
+      <Paper elevation={1} className="paper" sx={{backgroundColor: '#fffef0'}}>
+        {/* <Typography variant="h6" gutterBottom>
           Transfer Tokens
-        </Typography>
+        </Typography> */}
         <div className="token-transfer-form">
           <TextField
+          color='"success":green'
             label="Token Contract Address"
             value={tokenAddress}
             onChange={(e) => setTokenAddress(e.target.value)}
             fullWidth
           />
           <TextField
+          color='"success":green'
             label="Recipient Address"
             value={recipient}
             onChange={(e) => setRecipient(e.target.value)}
             fullWidth
           />
           <TextField
+          color='"success":green'
             label="Amount"
             value={amount}
             onChange={(e) => setAmount(e.target.value)}
             fullWidth
           />
-          <Button variant="contained" color="primary" onClick={transferTokens}>
+          <Button variant="contained" color="primary" sx={{backgroundColor: '#34434e'}} onClick={transferTokens}>
             Transfer
           </Button>
         </div>

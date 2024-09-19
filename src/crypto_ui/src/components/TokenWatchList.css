@@ -1,12 +1,32 @@
 .token-watch-container {
-    padding: 1rem;
     margin-bottom: 1rem;
+    background-color:#dedede;
   }
   
   .date-picker-container {
     margin-bottom: 1rem;
+    padding-top: 1rem;
+    padding-left: 1rem;
   }
   
   .token-table {
     margin-top:1rem;
+
+  }
+  .dp{
+    height: 4vh;
+    width: 6vw;
+    text-align: center;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #b4caca;
+    border-color: black;
+    border-radius: 6px;
+  }
+  .token-watch-form{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
   }

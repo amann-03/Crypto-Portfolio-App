@@ -1,0 +1,11 @@
+.token-transfer-container{
+    background-color: #dedede;
+}
+
+.token-transfer-form{
+    display: flex;
+    flex-direction: column;
+    gap:0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+}

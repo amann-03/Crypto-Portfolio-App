@@ -1,0 +1,17 @@
+.token-allowance-container {
+  background-color: #dedede;
+}
+
+.token-allowance-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+
+}
+
+.allowance-result {
+  margin-top: 1rem;
+  font-weight: bold;
+}
