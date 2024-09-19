@@ -14,14 +14,12 @@
 }
 
 .App-header {
-  background-color: #282c34;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -38,7 +36,9 @@
 }
 
 .container {
-  padding-top: 2rem;
+  padding: 1rem;
+  color: #000103;
+  /* background-color: #000103; */
 }
 
 .header {
@@ -48,7 +48,10 @@
 
 .paper {
   padding: 2rem;
-  margin-bottom: 2rem;
+  /* margin-bottom: 2rem; */
+  /* width: 100vw; */
+  color: rgb(247, 243, 243);
+  background-color: #000103;
 }
 
 .main-content {
@@ -56,9 +59,16 @@
   flex-direction: row;
   gap: 1rem;
   justify-content: space-between;
+  /* background-color: #000103; */
 }
 
-.content-item {
+.content-item{
  flex: 1;
+ /* background-color: #000103; */
+}
+
+:root{
+  padding: 0;
+  background-color: #22242c;
 }
 
