@@ -4,16 +4,17 @@ The Crypto Portfolio App is a decentralized application (DApp) built using React
 
 # Installation Steps
 
-Prerequisites
-1. Node.js must be installed on your machine. You can download and install it from here.
+## Prerequisites
+1. Node.js must be installed on your machine. You can download and install it from [here](https://nodejs.org/en).
 2. MetaMask browser extension installed and configured.
 3. Ethereum.io API key to fetch token data.
 4. Virtual environment (ctmblock) already created for project setup.
 
-   
+## Setup
+
 1. Clone the Pository from github
 
-git clone https://github.com/your-repo/crypto-portfolio-app.git
+``` git clone https://github.com/your-repo/crypto-portfolio-app.git ```
 
 2. Navigate to the project directory
 
@@ -31,7 +32,7 @@ npm install
 
 REACT_APP_ETHEREUM_API_KEY=your-api-key
 
-# Running the Application
+## Running the Application
 
 1. Start the development server
 
@@ -40,4 +41,6 @@ npm start
 2. Open your browser and navigate to:
 
 http://localhost:3000
+
+# Features
 
