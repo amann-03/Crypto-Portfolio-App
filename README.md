@@ -14,11 +14,15 @@ The Crypto Portfolio App is a decentralized application (DApp) built using React
 
 1. Clone the Pository from github
 
-``` git clone https://github.com/your-repo/crypto-portfolio-app.git ```
+```bash
+[git clone https://github.com/your-repo/crypto-portfolio-app.git](https://github.com/amann-03/Crypto-Portfolio-App.git)
+```
 
 2. Navigate to the project directory
 
+```bash
 cd crypto-portfolio-app
+```
 
 3. Activate the virtual environment
 
