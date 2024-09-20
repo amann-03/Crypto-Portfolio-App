@@ -83,3 +83,11 @@ Users can retrieve historical token prices by specifying a start date and an end
 
 Click on this [link]() to see the demo.
 
+# Demo Details
+
+recipient - 0xFCBB34dB4E62f9AfD588110C7F22990Cfb76DdC1
+
+tokens
+1. ANdy - 0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E
+2. Nahmii - 0x7c8155909cd385F120A56eF90728dD50F9CcbE52
+3. peipei - 0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790
