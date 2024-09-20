@@ -81,13 +81,14 @@ Users can retrieve historical token prices by specifying a start date and an end
 
 # Working Demo
 
-Click on this [link](https://66ed8c09de4e9a00b2d73436--crypt-app-aman.netlify.app/) to see the demo.
+The live working of app is hosted through **netlify** on below given link.
+Hosted Site : [Link](https://main--crypt-app-aman.netlify.app/)
 
-# Demo Details
+# Demo Details Used
 
-Recipient Address - 0xFCBB34dB4E62f9AfD588110C7F22990Cfb76DdC1
+Recipient Address : 0xFCBB34dB4E62f9AfD588110C7F22990Cfb76DdC1
 
-Tokens contract address
-1. ANdy - 0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E
+Tokens contract address:
+1. ANDY - 0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E
 2. Nahmii - 0x7c8155909cd385F120A56eF90728dD50F9CcbE52
-3. peipei - 0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790
+3. PEIPEI - 0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790
