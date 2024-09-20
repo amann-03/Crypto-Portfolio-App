@@ -15,7 +15,7 @@ The Crypto Portfolio App is a decentralized application (DApp) built using React
 1. Clone the Pository from github
 
 ```bash
-https://github.com/amann-03/Crypto-Portfolio-App.git
+git clone https://github.com/amann-03/Crypto-Portfolio-App.git
 ```
 
 2. Navigate to the project directory
@@ -58,4 +58,20 @@ http://localhost:3000
 ```
 
 # Features
+
+1. Connecting the Wallet
+Users must log in via MetaMask to access the app's functionality. This integration ensures secure access to the Ethereum blockchain and a decentralized approach to managing crypto assets.
+
+2. Adding Token
+This feature allows users to manually add tokens by providing the token's contract address. The app then fetches and displays token details such as name, symbol, and price using the Ethereum.io API.
+
+3. Transferring Token
+Users can transfer tokens between accounts. The app verifies the transaction via the Ethereum blockchain, ensuring secure and efficient token transfers.
+
+4. Checking Token Allowance
+This feature allows users to check the token allowance, i.e., the maximum number of tokens that a spender is allowed to spend from their account. It provides transparency in token transactions and prevents unauthorized token usage.
+
+5. Fetching Historical Data
+Users can retrieve historical token prices by specifying a start date and an end date. This feature uses the Ethereum.io API to fetch and display token price history, enabling users to analyze market trends.
+
 
