@@ -6,7 +6,7 @@ The Crypto Portfolio App is a decentralized application (DApp) built using React
 
 The live working of app is hosted through **netlify** on below given link.
 
-Hosted Site : [Link](https://main--crypt-app-aman.netlify.app/)
+Hosted Site : [Link](https://main--crypt-block-aman.netlify.app/)
 
 # Installation Steps
 
