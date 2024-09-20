@@ -256,7 +256,7 @@ function App() {
             </Button>
         </Box>
 
-        {tokens.length > 0 && error && <Typography color="error">{error}</Typography>}
+        {/* {tokens.length > 0 && error && <Typography color="error">{error}</Typography>} */}
         <Table>
           <TableHead>
             <TableRow>
