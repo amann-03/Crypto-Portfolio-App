@@ -1,0 +1,9 @@
+[build]
+  base    = "src/crypto_ui"    # Project directory where your React app is located
+  publish = "build"            # Directory where production build files are stored
+  command = "npm run build"    # Command to build the project
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
