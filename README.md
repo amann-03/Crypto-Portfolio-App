@@ -2,6 +2,12 @@
 
 The Crypto Portfolio App is a decentralized application (DApp) built using React.js and ether.js, designed to manage your cryptocurrency tokens effectively. The app allows users to connect their MetaMask wallet, add tokens, transfer tokens, check token allowances, and view historical token price data. The backend functionality interacts with the Ethereum blockchain using the Ethereum.io API to fetch token information and validate transactions.
 
+# Working Demo
+
+The live working of app is hosted through **netlify** on below given link.
+
+Hosted Site : [Link](https://main--crypt-app-aman.netlify.app/)
+
 # Installation Steps
 
 ## Prerequisites
@@ -78,12 +84,6 @@ This feature allows users to check the token allowance, i.e., the maximum number
 **5. Fetching Historical Data**
 
 Users can retrieve historical token prices by specifying a start date and an end date. This feature uses the Ethereum.io API to fetch and display token price history, enabling users to analyze market trends.
-
-# Working Demo
-
-The live working of app is hosted through **netlify** on below given link.
-
-Hosted Site : [Link](https://main--crypt-app-aman.netlify.app/)
 
 # Demo Details Used
 
