@@ -2,6 +2,12 @@
 
 The Crypto Portfolio App is a decentralized application (DApp) built using React.js and ether.js, designed to manage your cryptocurrency tokens effectively. The app allows users to connect their MetaMask wallet, add tokens, transfer tokens, check token allowances, and view historical token price data. The backend functionality interacts with the Ethereum blockchain using the Ethereum.io API to fetch token information and validate transactions.
 
+# Working Demo
+
+The live working of app is hosted through **netlify** on below given link.
+
+Hosted Site : [Link](https://main--crypt-app-aman.netlify.app/)
+
 # Installation Steps
 
 ## Prerequisites
@@ -79,15 +85,11 @@ This feature allows users to check the token allowance, i.e., the maximum number
 
 Users can retrieve historical token prices by specifying a start date and an end date. This feature uses the Ethereum.io API to fetch and display token price history, enabling users to analyze market trends.
 
-# Working Demo
+# Demo Details Used
 
-Click on this [link](https://66ed8c09de4e9a00b2d73436--crypt-app-aman.netlify.app/) to see the demo.
+Recipient Address : 0xFCBB34dB4E62f9AfD588110C7F22990Cfb76DdC1
 
-# Demo Details
-
-Recipient Address - 0xFCBB34dB4E62f9AfD588110C7F22990Cfb76DdC1
-
-Tokens contract address
-1. ANdy - 0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E
+Tokens contract address:
+1. ANDY - 0x68BbEd6A47194EFf1CF514B50Ea91895597fc91E
 2. Nahmii - 0x7c8155909cd385F120A56eF90728dD50F9CcbE52
-3. peipei - 0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790
+3. PEIPEI - 0x3fFEea07a27Fab7ad1df5297fa75e77a43CB5790
